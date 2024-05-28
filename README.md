@@ -19,4 +19,5 @@ To get started with Smart Student Access Analyzer, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Smart-Student-Access-Analyzer.git
+   git clone https://github.com/Shmdtalha/Smart-Student-Suc
+  ccess-Analyzer.git
